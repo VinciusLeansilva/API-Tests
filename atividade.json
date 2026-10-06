@@ -1,0 +1,159 @@
+Atividade 05/10/2026
+
+
+basejojo.json
+
+
+[
+    
+  {
+    "id": 1,
+    "Marca": "Chevrolet",
+    "Modelo": "Onix LT",
+    "Ano": 2023
+  },
+  {
+    "id": 2,
+    "Marca": "Volkswagen",
+    "Modelo": "T-Cross",
+    "Ano": 2024
+  },
+  {
+    "id": 3,
+    "Marca": "Toyota",
+    "Modelo": "Corolla",
+    "Ano": 2022
+  },
+  {
+    "id": 4,
+    "Marca": "Honda",
+    "Modelo": "Civic",
+    "Ano": 2023
+  },
+  {
+    "id": 5,
+    "Marca": "Hyundai",
+    "Modelo": "HB20",
+    "Ano": 2024
+  },
+  {
+    "id": 6,
+    "Marca": "Fiat",
+    "Modelo": "Argo",
+    "Ano": 2023
+  },
+  {
+    "id": 7,
+    "Marca": "Jeep",
+    "Modelo": "Renegade",
+    "Ano": 2022
+  },
+  {
+    "id": 8,
+    "Marca": "Nissan",
+    "Modelo": "Kicks",
+    "Ano": 2024
+  },
+  {
+    "id": 9,
+    "Marca": "Renault",
+    "Modelo": "Kwid",
+    "Ano": 2023
+  },
+  {
+    "id": 10,
+    "Marca": "Volkswagen",
+    "Modelo": "Polo",
+    "Ano": 2024
+  },
+  {
+    "id": 11,
+    "Marca": "Chevrolet",
+    "Modelo": "Tracker",
+    "Ano": 2025
+  },
+  {
+    "id": 12,
+    "Marca": "Toyota",
+    "Modelo": "Yaris",
+    "Ano": 2023
+  },
+  {
+    "id": 13,
+    "Marca": "Fiat",
+    "Modelo": "Pulse",
+    "Ano": 2024
+  },
+  {
+    "id": 14,
+    "Marca": "Hyundai",
+    "Modelo": "Creta",
+    "Ano": 2025
+  },
+  {
+    "id": 15,
+    "Marca": "Volkswagen",
+    "Modelo": "Virtus",
+    "Ano": 2023
+  },
+  {
+    "id": 16,
+    "Marca": "Honda",
+    "Modelo": "HR-V",
+    "Ano": 2024
+  },
+  {
+    "id": 17,
+    "Marca": "Jeep",
+    "Modelo": "Compass",
+    "Ano": 2023
+  },
+  {
+    "id": 18,
+    "Marca": "Nissan",
+    "Modelo": "Versa",
+    "Ano": 2022
+  },
+  {
+    "id": 19,
+    "Marca": "Fiat",
+    "Modelo": "Cronos",
+    "Ano": 2024
+  },
+  {
+    "id": 20,
+    "Marca": "Renault",
+    "Modelo": "Duster",
+    "Ano": 2023
+  },
+  {
+    "id": 21,
+    "Marca": "Chevrolet",
+    "Modelo": "Spin",
+    "Ano": 2022
+  },
+  {
+    "id": 22,
+    "Marca": "Toyota",
+    "Modelo": "Hilux",
+    "Ano": 2024
+  },
+  {
+    "id": 23,
+    "Marca": "Ford",
+    "Modelo": "Ranger",
+    "Ano": 2023
+  },
+  {
+    "id": 24,
+    "Marca": "Volkswagen",
+    "Modelo": "Taos",
+    "Ano": 2025
+  },
+  {
+    "id": 25,
+    "Marca": "BMW",
+    "Modelo": "320i",
+    "Ano": 2024
+  }
+]
